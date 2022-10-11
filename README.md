@@ -1,3 +1,4 @@
 # aaroncontrerasportfolio
 
-This is the readMe
+Sinmple website showcasing some of my favortite projects
+
